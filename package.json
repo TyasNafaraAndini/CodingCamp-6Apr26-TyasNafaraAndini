@@ -1,0 +1,14 @@
+{
+  "name": "personal-dashboard",
+  "version": "1.0.0",
+  "description": "A personal dashboard with greeting, focus timer, to-do list, and quick links.",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "devDependencies": {
+    "fast-check": "^3.22.0",
+    "jsdom": "^29.0.2",
+    "vitest": "^2.0.0"
+  },
+  "type": "module"
+}
